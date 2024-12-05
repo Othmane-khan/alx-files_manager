@@ -30,4 +30,3 @@ Mocha is used in combination with Chai for testing the app.
 
 ## Authors
 Khanous Othmane
-Adeleye Ayomide Tosin
